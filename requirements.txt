@@ -1,0 +1,11 @@
+openai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pandas
+tweepy
+facebook-sdk
+newspaper3k
+python-dotenv
+lxml_html_clean
